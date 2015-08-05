@@ -1,0 +1,2 @@
+# Shop-Online-App
+This is an online sale system which registers new customers and check for valid inputs and then user can login with provided password. If user is already registered, he/she can directly login. Then user will redirect to listing page where ha can listing items for bidding, this page will also check all valid inputs. After this, user as bidder will proceed to bidding page and  in my system. He can only but things and status will be changes in xml file. Maintenance page can be accessed by system administrator where he can get generated revenue of sold items.
